@@ -1,0 +1,7 @@
+Overview
+강원대학교 전자공학과 2026.02 학사 졸업 강태훈의 포트폴리오 저장공간. 진행 중인 프로젝트에 대한 내용을 기록할 예
+
+PROJECT_RTL2GDS
+제공된 core RTL, sdc, upf를 기반으로 RTL2GDS의 일부 과정(top integration, pad attech, dft를 위한 interface module 추가, low power, STA)를 진행하여,
+최종적으로 final freeze signoff(FFS)까지 완료를 목표로하는 프로젝트.
+
